@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alok0915
+- 👋 Hi, I’m Alok Pandey
 - 👀 I’m interested in Machine learning, Statistics, Deep learning.
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science/Artificial intelligence Projects
