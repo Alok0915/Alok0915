@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alok Pandey
-- 👀 I’m interested in Machine learning, Statistics, Deep learning.
+- 👀 I’m interested in Machine learning, Statistics, Deep learning, Natural language processing.
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science/Artificial intelligence Projects
 - 📫 Reach me at alokpandey0915@gmail.com & 8982657706
